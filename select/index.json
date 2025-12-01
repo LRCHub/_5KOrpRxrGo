@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "約束はいらない",
+  "base_artist": "坂本真綾",
+  "createdAt": "2025-12-01T18:32:41.902390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/01_約束はいらない_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "約束はいらない (TV edit)",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/02_約束はいらない_(TV_edit)_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "約束はいらない (TV Edit)",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/03_約束はいらない_(TV_Edit)_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/04_約束はいらない_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/05_約束はいらない_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/06_約束はいらない_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/07_約束はいらない_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "約束はいらない(オリジナル·カラオケ)",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/08_約束はいらない(オリジナル·カラオケ)_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本真綾",
+      "has_synced": true,
+      "path": "select/09_約束はいらない_坂本真綾.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "下川みくに",
+      "has_synced": true,
+      "path": "select/10_約束はいらない_下川みくに.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "約束はいらない(オリジナル・カラオケ)",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/11_約束はいらない(オリジナル・カラオケ)_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/12_約束はいらない_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "坂本　真綾",
+      "has_synced": true,
+      "path": "select/13_約束はいらない_坂本_真綾.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "約束はいらない",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/14_約束はいらない_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "約束はいらない",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_約束はいらない_坂本_真綾.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "約束はいらない",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_02_約束はいらない_坂本_真綾.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "約束はいらない",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_03_約束はいらない_坂本_真綾.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "約束はいらない",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_04_約束はいらない_坂本_真綾.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "約束はいらない",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_05_約束はいらない_坂本_真綾.txt"
+    }
+  ]
+}
